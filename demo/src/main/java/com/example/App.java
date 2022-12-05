@@ -11,7 +11,7 @@ public class App
     {
         System.out.println( "\n\nHello World!" );
         Scanner reader = new Scanner(System.in);   
-        System.out.println("Write something ");
+        System.out.println("Write something  ");
         String n = reader.nextLine();
         System.out.print( "\n You typed this: " );
         System.out.println( n );
